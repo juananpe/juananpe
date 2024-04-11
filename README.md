@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Juanan Pereira</h1>
 <h3 align="center">A passionate teacher, runner and learner.</h3>
 
-- 🔭 I’m currently working on [LLMentor](https://github.com/juananpe/LLMentor-container)
+- 🔭 I’m currently working on [LLMentor](https://github.com/juananpe/LLMentor-container) (private) and [Semantic Reposearch](https://semantic.ikasten.io)
 
 - 🌱 I’m currently learning **about LLMs**
 
