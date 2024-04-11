@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Juanan Pereira</h1>
 <h3 align="center">A passionate teacher, runner and learner.</h3>
 
-<p align="left"> <a href="https://twitter.com/juanan" target="blank"><img src="https://img.shields.io/twitter/follow/juanan?logo=twitter&style=for-the-badge" alt="juanan" /></a> </p>
-
 - 🔭 I’m currently working on [LLMentor](https://github.com/juananpe/LLMentor-container)
 
 - 🌱 I’m currently learning **about LLMs**
