@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [LLMentor](https://github.com/juananpe/LLMentor-container) (private) and [Semantic Reposearch](https://semantic.ikasten.io)
 
-- 🌱 I’m currently learning **about LLMs**
+- 🌱 I’m currently learning **about LLMs**, and writing about my [learning process](https://llmprimer.substack.com/)
 
 - 📝 I regularly write articles on [https://ikasten.io](https://ikasten.io)
 
